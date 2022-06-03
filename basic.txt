@@ -1,0 +1,79 @@
+                                   introduction of python
+
+1.  is a widely used general-purpose,
+    high level programming language. 
+
+2. It was created by Guido van Rossum in 
+   1991 and further developed by the Python Software Foundation
+
+3. Python is a programming language that lets you 
+    work quickly and integrate systems more efficiently.
+
+4. There are two major Python versions: Python 2
+   and Python 3. Both are quite different.
+
+5. Before we start Python programming, we need to have
+   an interpreter to interpret and run our programs.
+
+6. Python designed by Guido van Rossum at CWI has become 
+   a widely used general-purpose, high-level programming language.   
+
+7. Reason for increasing popularity
+
+   Emphasis on code readability, shorter codes, ease of writing
+
+   Programmers can express logical concepts in fewer lines of code
+   in comparison to languages such as C++ or Java.
+
+    Python supports multiple programming paradigms, like object-oriented,
+    imperative and functional programming or procedural.
+
+    There exists inbuilt functions for almost all of the frequently used concepts.
+
+    Philosophy is “Simplicity is the best”.
+
+8.  Dynamically Typed1.No need to declare anything. 
+    An assignment statement binds a name to an object, and the object 
+    can be of any type.
+
+ 9. No type casting required when using container objects
+
+ 10. Advantages : 
+      Presence of third-party modules 
+      Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics etc) 
+      Open source and community development 
+      Versatile, Easy to read, learn and write
+      User-friendly data structures 
+      High-level language 
+      Dynamically typed language(No need to mention data type based on the value assigned, it takes data type) 
+      Object-oriented language 
+      Highly Efficient(Python’s clean object-oriented design provides enhanced process control, and the language is equipped with excellent text processing and integration capabilities, as well as its own unit testing framework, which makes it more efficient.)
+      (IoT)Internet of Things Opportunities
+      Interpreted Language
+      Portable across Operating systems 
+ 
+
+11. Applications : 
+      GUI based desktop applications
+      Graphic design, image processing applications, Games, and Scientific/ computational Applications
+      Web frameworks and applications 
+      Enterprise and Business applications 
+      Operating Systems 
+      Education
+      Database Access
+      Language Development 
+      Prototyping 
+      Software Development
+ 
+12. Organizations using Python : 
+
+      Google(Components of Google spider and Search Engine) 
+      Yahoo(Maps) 
+      YouTube 
+      Mozilla 
+      Dropbox 
+      Microsoft 
+      Cisco 
+      Spotify 
+      Quora  
+ 
