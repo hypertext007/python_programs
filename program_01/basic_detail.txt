@@ -1,0 +1,23 @@
+question 1:how to add comment in program
+so tow type of comments method are avaliable.
+1. single line comment.
+2. multi line comment.
+
+declared single line comment :-
+# (string begins) is use to add single line comment in py.
+ex :-
+# how are you
+
+declared multi line comment :-
+'''(multi line string) ''' is use to add multi line comment in py.
+ex :-
+'''
+user name - xyz
+location - mars
+'''
+question 2:what is the print()
+- print something on the console, print() function is used..
+- This function also adds a newline after our message is 
+  printed(unlike in C).
+- “print” is not a function but a keyword and therefore can 
+   be used without parentheses  
