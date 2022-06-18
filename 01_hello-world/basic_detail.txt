@@ -1,5 +1,5 @@
 question 1:how to add comment in program
-so tow type of comments method are avaliable.
+so two type of comments method are avaliable.
 1. single line comment.
 2. multi line comment.
 
